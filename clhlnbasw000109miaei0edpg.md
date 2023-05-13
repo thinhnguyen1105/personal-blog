@@ -1,5 +1,5 @@
 ---
-title: "Các hình thái của sư giao tiếp"
+title: "Các hình thái của sự giao tiếp"
 datePublished: Sat May 13 2023 07:08:13 GMT+0000 (Coordinated Universal Time)
 cuid: clhlnbasw000109miaei0edpg
 slug: cac-hinh-thai-cua-su-giao-tiep
