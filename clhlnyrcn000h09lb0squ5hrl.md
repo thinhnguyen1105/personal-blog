@@ -4,7 +4,7 @@ datePublished: Sat May 13 2023 07:26:28 GMT+0000 (Coordinated Universal Time)
 cuid: clhlnyrcn000h09lb0squ5hrl
 slug: toi-uu-hoa-he-thong-vuejs-phan-2
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HUJDz6CJEaM/upload/d0d2227b3d67e1b3d2a311f4b2123961.jpeg
-tags: vuejs
+tags: javascript, web-development, vuejs
 
 ---
 
