@@ -3,6 +3,7 @@ title: "Để không phải nghĩ commit với WhatTheCommit"
 datePublished: Sat May 13 2023 06:59:15 GMT+0000 (Coordinated Universal Time)
 cuid: clhlmzrow000809mnfc5x41vu
 slug: de-khong-phai-nghi-commit-voi-whatthecommit
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/842ofHC6MaI/upload/61d496b167ded652b01b60dd140f9a9c.jpeg
 tags: git
 
 ---
