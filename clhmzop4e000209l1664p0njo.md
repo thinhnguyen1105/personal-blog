@@ -1,10 +1,13 @@
 ---
 title: "Lãi kép trong tri thức 🤔"
+seoTitle: "Lãi kép trong tri thức 🤔"
+seoDescription: "Thoạt nhìn câu nói trên "lãi suất kép" - được hiểu đơn giản là tiền lãi bạn nhận được sẽ tiếp tục cộng gộp vào.."
 datePublished: Sun May 14 2023 05:42:20 GMT+0000 (Coordinated Universal Time)
 cuid: clhmzop4e000209l1664p0njo
 slug: lai-kep-trong-tri-thuc
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZGjbiukp_-A/upload/d6c748310cb35dbda2f7d145085c402f.jpeg
-tags: personal-development
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1684043203841/5ef1b0b3-1f90-4c94-a502-6313ce905ab5.jpeg
+tags: personal-development, investment
 
 ---
 
